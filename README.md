@@ -1,6 +1,6 @@
 # my-fifth-repo
 my test
-import request
+import requests
 
 amount = 100
 from_currency = "USD"
