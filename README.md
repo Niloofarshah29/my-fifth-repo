@@ -4,7 +4,7 @@ import requests
 
 amount = 100
 from_currency = "USD"
-to_currency = "EU"
+to_currency = "EUR"
 
 url = f"https://api.exchangerate.host/convert?from={from_currency}&to={to_currency}&amount={amount}"
 response = requests.get(url).json()
