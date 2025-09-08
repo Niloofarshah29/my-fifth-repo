@@ -1,5 +1,5 @@
 # my-fifth-repo
-my tes
+my test
 import requests
 
 amount = 100
