@@ -3,7 +3,7 @@ my test
 import requests
 
 amount = 100
-from_currency = "USD"
+fro_currency = "USD"
 to_currency = "EUR"
 
 url = f"https://api.exchangerate.host/convert?from={from_currency}&to={to_currency}&amount={amount}"
